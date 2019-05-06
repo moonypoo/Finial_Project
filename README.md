@@ -2,6 +2,8 @@
 
 A maze that is different everytime you play and your objective is to reach the center.
 
+https://editor.p5js.org/moonypoo/sketches/uRJTNbX5S
+
 ## Summary
 
 This project was difficult for me to do on my own. At first I wanted to do a game that allowed the player to jump up and down. I learned that it was really difficult to code gravity. I searched online for references but they were accessing Javascript and not the P5 libarary. Because of this I got stuck trying to figure it out and had a late start on the project. I quickly changed my design to something I had a better idea of. I wanted to create a maze using rectangles because I understand how the shape works better and thought it would be easier to draw the objects.
