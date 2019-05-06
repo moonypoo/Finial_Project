@@ -2,7 +2,7 @@
 
 A maze that is different everytime you play and your objective is to reach the center.
 
-https://editor.p5js.org/moonypoo/sketches/uRJTNbX5S
+https://editor.p5js.org/moonypoo/sketches/hVVXuX73L
 
 ## Summary
 
