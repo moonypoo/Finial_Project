@@ -41,4 +41,7 @@ When i started doing the maze project, i had a difficult time understanding how 
 
 ## References and links
 
-Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
+https://www.youtube.com/watch?v=Ouza_4SsbLc
+https://www.youtube.com/watch?v=wRHAitGzBrg
+https://www.youtube.com/watch?v=RXWO3mFuW-I
+
